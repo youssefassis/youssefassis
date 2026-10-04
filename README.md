@@ -2,9 +2,7 @@
 
 Machine learning engineer, PhD. Computer vision for healthcare.
 
-R&D engineer at [DentalMonitoring](https://dentalmonitoring.com/), Paris — predictive models
-for dental care. Before that, a PhD at [Inria](https://www.inria.fr/) Nancy and CHRU Nancy on
-detecting intracranial aneurysms in MR angiography.
+PhD at [Inria](https://www.inria.fr/) Nancy and CHRU Nancy on detecting intracranial aneurysms in MR angiography.
 
 I work on 3D detection and segmentation in medical images, on how clinicians review and
 override model output, and on what it takes to move a model from training to regulatory
@@ -14,7 +12,13 @@ clearance and production monitoring: V&V, non-inferiority study design, PCCP, QM
 
 - [**slicer-aneurysm-review**](https://github.com/youssefassis/slicer-aneurysm-review) — 3D Slicer extension for reviewing AI-detected aneurysm candidates: verdicts, rejection reasons, sign-off, provenance.
 - [**slicer-weak-annotation**](https://github.com/youssefassis/slicer-weak-annotation) — weak annotation as spheres, two clicks per lesion, no segmentation.
-- [**DeepAneDet**](https://gitlab.inria.fr/yassis/DeepAneDet) · [**DeepAnePose**](https://gitlab.inria.fr/yassis/DeepAnePose) · [**DeepAneSeg**](https://gitlab.inria.fr/yassis/DeepAneSeg) — PhD pipeline: detection, 3D pose, segmentation.
+- [**DeepAneDet**](https://github.com/youssefassis/DeepAneDet) · [**DeepAnePose**](https://github.com/youssefassis/DeepAnePose) · [**DeepAneSeg**](https://github.com/youssefassis/DeepAneSeg) — PhD pipeline: detection, 3D pose, segmentation.
+
+### Other projects
+
+- [**classify-justify**](https://github.com/youssefassis/classify-justify) — a surface-defect classifier explained with 17 attribution methods, and whether those explanations can be trusted.
+- [**CamemBERTQA**](https://github.com/youssefassis/CamemBERTQA) — French extractive question answering: CamemBERT fine-tuned on FQuAD.
+- [**travel-planner**](https://github.com/youssefassis/travel-planner) — a whole trip (route, itinerary, transport, budget, carbon) generated in the browser, no backend.
 
 ### Research
 
