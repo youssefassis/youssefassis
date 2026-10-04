@@ -10,9 +10,9 @@ clearance and production monitoring: V&V, non-inferiority study design, PCCP, QM
 
 ### Work
 
+- [**DeepAneDet**](https://github.com/youssefassis/DeepAneDet) · [**DeepAnePose**](https://github.com/youssefassis/DeepAnePose) · [**DeepAneSeg**](https://github.com/youssefassis/DeepAneSeg) — PhD pipeline: detection, 3D pose, segmentation.
 - [**slicer-aneurysm-review**](https://github.com/youssefassis/slicer-aneurysm-review) — 3D Slicer extension for reviewing AI-detected aneurysm candidates: verdicts, rejection reasons, sign-off, provenance.
 - [**slicer-weak-annotation**](https://github.com/youssefassis/slicer-weak-annotation) — weak annotation as spheres, two clicks per lesion, no segmentation.
-- [**DeepAneDet**](https://github.com/youssefassis/DeepAneDet) · [**DeepAnePose**](https://github.com/youssefassis/DeepAnePose) · [**DeepAneSeg**](https://github.com/youssefassis/DeepAneSeg) — PhD pipeline: detection, 3D pose, segmentation.
 
 ### Other projects
 
